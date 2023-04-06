@@ -14,7 +14,7 @@ except:
     pass
 
 if not START_PIC:
-    START_PIC = "https://te.legra.ph/file/77fa449e0f893704a5b8e.jpg
+    START_PIC = "https://telegra.ph/file/47c69e62a33c02b035292.jpg"
 if not SUPPORT_CHAT:
     SUPPORT_CHAT = "off_road143"
 
