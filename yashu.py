@@ -23,8 +23,8 @@ yashu = Client("WHISPER-BOT", api_id=API_ID, api_hash=API_HASH, bot_token=BOT_TO
 ALPHA = {}
 
 STXT = "Bot started successfully ✨🥀\n"
-STXT += "For queries and questions : @NotKeshav\n"
-STXT += "Join @hidden_botz for community 🥀✨"
+STXT += "For queries and questions : @rian_0143\n"
+STXT += "Join @off_road143 for community 🥀✨"
 
 TXT = "Hello {} ! I'm {}, I can help you to send whispers in various modes !\n\nHit /help to know more !"
 
